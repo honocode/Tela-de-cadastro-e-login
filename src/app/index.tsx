@@ -103,6 +103,7 @@ const styles = StyleSheet.create({
     marginTop: 24,
     gap: 12,
   },
+  // Texto inferior com link para cadastro
   fonteText: {
     textAlign: "center",
     marginTop: 24,
